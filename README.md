@@ -2,11 +2,7 @@
 
 A Node application which makes connecting your RaspberryPi to your home wifi easier.
 
-Tested on Stretch and Raspberrt Pi 3
-
-## RPI 4 Note:
-
-I realize that a bunch of folks will try this out using the shiny new RaspberryPi v4. I caution you that this is not something I have tried, I believe this was tested on a Pi3 to success. However, if you find that this works on a Pi4, please let me know and I will adjust the readme accordingly. If it does not work, it is probably a few PRs away from success :)
+Tested on Raspberry PI Zero W
 
 ## Why?
 
